@@ -1,0 +1,6 @@
+train: ../helper/images/training
+val: ../helper/labels/validation
+#number of classes
+nc: 1
+#class names
+names: ['person']
